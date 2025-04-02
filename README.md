@@ -14,7 +14,7 @@ Este es un proyecto de API REST para la gestión de estudiantes en una universid
 ## Instalación y Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestion-estudiantes.git
+   git clone https://github.com/AlejandroCodex/CRUD_Estudiante_SpringBoot.git
    cd gestion-estudiantes
    ```
 2. Compilar y ejecutar la aplicación:
